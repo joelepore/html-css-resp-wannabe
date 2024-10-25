@@ -20,3 +20,8 @@ Per poter vedere correttamente un sito responsive è necessaria l’aggiunta del
 :warning: Fate attenzione: a volte l’inspector di Chrome può dare qualche problema con le mediaquery, controllate il lavoro anche con l’inspector di Firefox :laptop_parrot:
 
 Buon lavoro e buon w/e :muscle:
+
+## Svolgimento
+1. Inserisco il tag meta:vp nell'head dell'html per far funzionare le media query
+2. Con approccio desktop first, scrivo le media query per tablet e mobile, senza modificare html e css
+3. Scrivo la media query bonus per sistemare il layout fino ai 1160 px
